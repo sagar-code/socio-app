@@ -1,0 +1,8 @@
+{
+  "name": "socio-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/sagar-code/socio-app.git",
+  "author": "sagar-code <sagarfmt@gmail.com>",
+  "license": "MIT"
+}
