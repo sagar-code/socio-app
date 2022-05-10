@@ -13,7 +13,7 @@ const Navbar = () => {
           <Link
             to="/signup"
             type="text"
-            className="border-2 rounded-md border-primary px-4 py-2 text-primary"
+            className="border-2 rounded-md border-primary px-4 py-2 text-primary hover:border-orange-400"
           >
             <img src={Signup} alt="signup-icon" className="inline h-4 pr-2" />
             Sign In
