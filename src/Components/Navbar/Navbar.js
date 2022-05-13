@@ -4,7 +4,7 @@ import Signup from "../../Assets/Icons/singup.png";
 
 const Navbar = () => {
   return (
-    <div className="bg-white shadow-md">
+    <div className="bg-white shadow">
       <div className="container mx-auto py-3 flex justify-between items-center">
         <div className="cursor-pointer">
           <img src={Logo} className="h-12" alt="socio-logo" />
